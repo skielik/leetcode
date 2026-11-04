@@ -1,7 +1,7 @@
 """
 1768. Merge Strings Alternately - Easy
 https://leetcode.com/problems/merge-strings-alternately
-Pattern: simultaneous iteration + slicing
+Pattern: simultaneous Iteration + slicing
 Time: O(n+m)   Space: O(n+m)
 """
 
