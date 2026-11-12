@@ -10,3 +10,4 @@ My Python solutions to LeetCode problems.
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | Array, brute force | [Python](1431-kids-with-the-greatest-number-of-candies.py) |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | Hash Map (counting), matrix transpose | [Python](2352-equal-row-and-column-pairs.py) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Greedy, array | [Python](605-can-place-flowers.py) |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Strings, collect and reverse | [Python](345-reverse-vowels-of-a-string.py) |
