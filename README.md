@@ -11,3 +11,4 @@ My Python solutions to LeetCode problems.
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | Hash Map (counting), matrix transpose | [Python](2352-equal-row-and-column-pairs.py) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Greedy, array | [Python](605-can-place-flowers.py) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Strings, collect and reverse | [Python](345-reverse-vowels-of-a-string.py) |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Strings, manual split | [Python](151-reverse-words-in-a-string.py) |
