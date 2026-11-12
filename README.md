@@ -9,3 +9,4 @@ My Python solutions to LeetCode problems.
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | Strings, GCD of lengths | [Python](1071-greatest-common-divisor-of-strings.py) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | Array, brute force | [Python](1431-kids-with-the-greatest-number-of-candies.py) |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | Hash Map (counting), matrix transpose | [Python](2352-equal-row-and-column-pairs.py) |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Greedy, array | [Python](605-can-place-flowers.py) |
